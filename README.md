@@ -3,6 +3,6 @@ git clone https://github.com/WHATSAPP-BOT/BOT
 
 cd BOT
 
-bash install.sh
+npm install
 
 node ghost
